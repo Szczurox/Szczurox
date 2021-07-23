@@ -1,1 +1,1 @@
-📫 How to reach me: Discord, SzczuroxPL#0001
+📫 How to reach me: Discord, SzczuroxPL#6969
