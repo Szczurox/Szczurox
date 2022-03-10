@@ -10,7 +10,7 @@ I am currently working on:
    
 I worked previously on:   
 - Next.js/React.js websites   
-- Video games   
+- Video games (Unity, GameMaker Studio 2, Godot)   
 - Discord bots   
 - Some smaller projects   
 
