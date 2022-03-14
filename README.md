@@ -20,4 +20,4 @@ I program mainly in:
 - Python   
 - JavaScript   
    
-I love strongly typed programming languages   
+I love statically typed programming languages   
