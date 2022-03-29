@@ -6,7 +6,7 @@ programmer from Poland who loves working on random stuff
 I am currently working on:   
 - [github.szczurox.io](https://github.com/Szczurox/szczurox.github.io")   
 - [OpenGL 3D graphics and physics engine](https://github.com/Szczurox/OpenGL-3D-Engine)   
-- Programming language interpreter (not public yet)   
+- Chat app in Next.js with Firebase backend (not public yet)
    
 I worked previously on:   
 - Next.js/React.js websites   
