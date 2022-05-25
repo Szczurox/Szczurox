@@ -7,6 +7,7 @@ I am currently working on:
 - [github.szczurox.io](https://github.com/Szczurox/szczurox.github.io")   
 - [OpenGL 3D graphics and physics engine](https://github.com/Szczurox/OpenGL-3D-Engine)   
 - Chat app in Next.js with Firebase backend (not public yet)
+- economy bot Gus for Walter Hartwell White Discord server (with @hackerpy) <-   
    
 I worked previously on:   
 - Next.js/React.js websites   
