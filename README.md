@@ -1,7 +1,7 @@
 # Hello World! I am Szczurox   
 ### Programmer from Poland who loves working on random stuff   
 
-📫 How to reach me: Discord, SzczuroxPL#4889   
+📫 How to reach me: Discord, SzczuroxPL#4889 or Walter White#0001   
 🌱 I am currently learning about AI
    
 ### I am currently working on:   
