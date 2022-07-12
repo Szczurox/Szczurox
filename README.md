@@ -2,6 +2,7 @@
 ### Programmer from Poland who loves working on random stuff   
 
 📫 How to reach me: Discord, SzczuroxPL#4889   
+🌱 I am currently learning about AI
    
 ### I am currently working on:   
 - [github.szczurox.io](https://github.com/Szczurox/szczurox.github.io")   
@@ -15,7 +16,6 @@
 - Discord bots   
 - Some smaller projects   
 
-### I am currently learning about AI
 
 ### Languages and Tools:   
 
