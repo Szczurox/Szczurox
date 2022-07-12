@@ -1,4 +1,4 @@
-### Hello World! I am Szczurox   
+# Hello World! I am Szczurox   
 programmer from Poland who loves working on random stuff   
 
 📫 How to reach me: Discord, SzczuroxPL#4889   
