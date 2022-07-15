@@ -7,6 +7,7 @@
 ### I am currently working on:   
 - [github.szczurox.io](https://github.com/Szczurox/szczurox.github.io")   
 - [OpenGL 3D graphics and physics engine](https://github.com/Szczurox/OpenGL-3D-Engine)   
+- [Win32 Graphics Engine](https://github.com/Szczurox/GraphicsEngine) <-   
 - Chat app in Next.js with Firebase backend (not public yet)
 - Few smaller learning projects
    
