@@ -5,8 +5,8 @@
    
 ### I am currently working on:   
 - [github.szczurox.io](https://github.com/Szczurox/szczurox.github.io")    
-- [Win32 Graphics Engine](https://github.com/Szczurox/GraphicsEngine) <-   
-- Chat app in Next.js with Firebase backend (not public yet)
+- [Win32 Graphics Engine](https://github.com/Szczurox/GraphicsEngine)     
+- [Gus Discord Bot](https://github.com/Szczurox/Discord-Bot-Gus)
 - Few smaller learning projects
    
 ### I worked previously on:   
