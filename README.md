@@ -22,7 +22,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" style="padding-right:10px;" />   
-<img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/rust.svg" style="padding-right:10px;" />   
+<img align="left" alt="Rust" width="36px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/rust.svg" style="padding-right:10px;" />   
 <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="padding-right:10px;" />   
 <img align="left" alt="TypeScript" width="26px" src="https://www.svgviewer.dev/static-svgs/14642/typescript-icon.svg" style="padding-right:10px;" />   
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
