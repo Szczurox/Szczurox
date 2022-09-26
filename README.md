@@ -12,7 +12,7 @@
 ### I worked previously on:   
 - Next.js/React.js websites   
 - Video games (Unity, GameMaker Studio 2, Godot)   
-- Discord bots   
+- Discord bots (discord.py, serenity)   
 - [OpenGL 3D graphics and physics engine](https://github.com/Szczurox/OpenGL-3D-Engine)   
 - Some smaller projects   
 
