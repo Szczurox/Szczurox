@@ -2,7 +2,7 @@
 ### Programmer from Poland who loves working on random stuff   
 
 📫 How to reach me: Discord, SzczuroxPL#4889 or Walter Hartwell White#0001   
-<img align="left" alt="Codewars" width="26px" src="https://docs.codewars.com/logo.svg" /> [Codewars](https://www.codewars.com/users/Szczurox)    
+<img align="left" alt="Codewars" width="26px" src="https://docs.codewars.com/logo.svg" style="padding-right:0px;" /> [Codewars](https://www.codewars.com/users/Szczurox)    
    
 ### I am currently working on:   
 - [github.szczurox.io](https://github.com/Szczurox/szczurox.github.io)    
