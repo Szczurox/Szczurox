@@ -2,9 +2,10 @@
 ### Programmer from Poland who loves working on random stuff   
 
 📫 How to reach me: Discord, SzczuroxPL#4889 or Walter Hartwell White#0001   
+[Codewars](https://www.codewars.com/users/Szczurox)    
    
 ### I am currently working on:   
-- [github.szczurox.io](https://github.com/Szczurox/szczurox.github.io")    
+- [github.szczurox.io](https://github.com/Szczurox/szczurox.github.io)    
 - [Win32 Graphics Engine](https://github.com/Szczurox/GraphicsEngine)     
 - [Gus Discord Bot](https://github.com/Szczurox/Discord-Bot-Gus) <-
 - Few smaller learning projects
