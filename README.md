@@ -6,9 +6,9 @@
 <img align="left" alt="Codewars" width="26px" src="https://docs.codewars.com/logo.svg" style="padding-right:0px;" /> [Codewars](https://www.codewars.com/users/Szczurox)    
    
 ### I am currently working on:   
-- [github.szczurox.io](https://github.com/Szczurox/szczurox.github.io)    
+- [github.szczurox.io](https://github.com/Szczurox/szczurox.github.io) <- (complete page rework)    
 - [Win32 Graphics Engine](https://github.com/Szczurox/GraphicsEngine)     
-- [Gus Discord Bot](https://github.com/Szczurox/Discord-Bot-Gus) <-
+- [Gus Discord Bot](https://github.com/Szczurox/Discord-Bot-Gus)   
 - Few smaller learning projects
    
 ### I worked previously on:   
