@@ -8,7 +8,6 @@
 ### I am currently working on:   
 - [github.szczurox.io](https://github.com/Szczurox/szczurox.github.io) <-
 - [Win32 Graphics Engine](https://github.com/Szczurox/GraphicsEngine)     
-- [Gus Discord Bot](https://github.com/Szczurox/Discord-Bot-Gus)   
    
 ### I worked previously on:   
 - Next.js/React.js websites   
