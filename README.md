@@ -11,10 +11,10 @@
 - [Win32 Graphics Engine](https://github.com/Szczurox/GraphicsEngine)     
    
 ### I worked previously on:   
-- Next.js/React.js websites   
-- Video games (Unity, GameMaker Studio 2, Godot)   
-- Discord bots (discord.py, serenity)   
+- Next.js/React.js websites  
 - [OpenGL 3D graphics and physics engine](https://github.com/Szczurox/OpenGL-3D-Engine)   
+- Discord bots (discord.py, serenity)    
+- Video games (Unity, GameMaker Studio 2, Godot)   
 - Some smaller projects   
 
 
