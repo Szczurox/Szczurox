@@ -14,7 +14,7 @@
 - Next.js/React.js websites   
 - [Win32 Graphics Engine](https://github.com/Szczurox/GraphicsEngine)   
 - [OpenGL 3D graphics and physics engine](https://github.com/Szczurox/OpenGL-3D-Engine)   
-- Discord bots (discord.py, serenity)    
+- Discord bots (discord.py, serenity, discord.js)    
 - Video games (Unity, GameMaker Studio 2, Godot)   
 - Some smaller projects   
 
