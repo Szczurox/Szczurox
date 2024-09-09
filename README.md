@@ -22,7 +22,7 @@
 ### Languages and Tools:   
 
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" style="padding-right:10px;" />   
-<img align="left" alt="Rust" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" style="padding-right:10px;" />   
+<img align="left" alt="Rust" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" style="padding-right:10px;" />   
 <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="padding-right:10px;" />   
 <img align="left" alt="TypeScript" width="26px" src="https://www.svgviewer.dev/static-svgs/14642/typescript-icon.svg" style="padding-right:10px;" />   
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
