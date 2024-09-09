@@ -6,8 +6,8 @@
 <img align="left" alt="Codewars" width="26px" src="https://docs.codewars.com/logo.svg" style="padding-right:0px;" /> [Codewars](https://www.codewars.com/users/Szczurox)    
    
 ### I am currently working on:   
+- [Chat app in Next.js with Firebase backend](https://github.com/Szczurox/Faicamp) <-   
 - [CMD RPG game](https://github.com/Szczurox/ConsoleRPG)   
-- [Chat app in Next.js with Firebase backend](https://github.com/Szczurox/Faicamp)   
 - [github.szczurox.io](https://github.com/Szczurox/szczurox.github.io)
    
 ### I worked previously on:   
