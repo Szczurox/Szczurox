@@ -1,5 +1,4 @@
 # Hello World! I am Szczurox   
-### Programmer from Poland   
 
 📫 Discord: szczurox2
    
