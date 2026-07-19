@@ -8,7 +8,8 @@
 - University projects
    
 ### I worked previously on:   
-- Next.js/React.js websites 
+- Next.js/React.js websites   
+- Data analysis projects   
 - [Chat app in Next.js with Firebase backend](https://github.com/Szczurox/Faicamp)   
 - [Win32 Graphics Engine](https://github.com/Szczurox/GraphicsEngine)   
 - [OpenGL 3D graphics and physics engine](https://github.com/Szczurox/OpenGL-3D-Engine)
