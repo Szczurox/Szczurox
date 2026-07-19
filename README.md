@@ -5,13 +5,14 @@
 <img align="left" alt="Codewars" width="26px" src="https://docs.codewars.com/logo.svg" style="padding-right:0px;" /> [Codewars](https://www.codewars.com/users/Szczurox)    
    
 ### I am currently working on:   
-- [CMD RPG game](https://github.com/Szczurox/ConsoleRPG)  
-- [Chat app in Next.js with Firebase backend](https://github.com/Szczurox/Faicamp)   
+- University projects
    
 ### I worked previously on:   
-- Next.js/React.js websites   
+- Next.js/React.js websites 
+- [Chat app in Next.js with Firebase backend](https://github.com/Szczurox/Faicamp)   
 - [Win32 Graphics Engine](https://github.com/Szczurox/GraphicsEngine)   
-- [OpenGL 3D graphics and physics engine](https://github.com/Szczurox/OpenGL-3D-Engine)   
+- [OpenGL 3D graphics and physics engine](https://github.com/Szczurox/OpenGL-3D-Engine)
+- [CMD RPG game](https://github.com/Szczurox/ConsoleRPG)  
 - Discord bots (discord.py, serenity, discord.js)    
 - Video games (Unity, GameMaker Studio 2, Godot)   
 - Some smaller projects   
