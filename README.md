@@ -6,6 +6,7 @@
    
 ### I am currently working on:   
 - University projects
+- [Geoguessr/MMA tools](https://github.com/Szczurox/Geoguessr)
    
 ### I worked previously on:   
 - Next.js/React.js websites   
